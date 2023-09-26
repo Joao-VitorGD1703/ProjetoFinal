@@ -1,0 +1,17 @@
+
+ [
+    {"Nome": "Nome do Indivíduo 1", "CPF": "000.000.000-00", "dataEnvio": "20082023", "data": "20/08/2023", "tipoSugestao": "Sugestão de melhoria", "sugestao": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum optio dolores alias commodi est ullam iusto, omnis beatae. Quaerat hic similique voluptatum veniam dolore reprehenderit provident accusamus necessitatibus cum eaque."},
+    {"Nome": "Nome do Indivíduo 2",  "CPF": "000.000.000-01", "dataEnvio": "21082023", "data": "21/08/2023", "tipoSugestao": "Sugestão de novo produto", "sugestao": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum optio dolores alias commodi est ullam iusto, omnis beatae. Quaerat hic similique voluptatum veniam dolore reprehenderit provident accusamus necessitatibus cum eaque."},
+    {"Nome": "Nome do Indivíduo 3", "CPF": "000.000.000-02", "dataEnvio": "22082023", "data": "22/08/2023", "tipoSugestao": "Sugestão de melhoria", "sugestao": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum optio dolores alias commodi est ullam iusto, omnis beatae. Quaerat hic similique voluptatum veniam dolore reprehenderit provident accusamus necessitatibus cum eaque."},
+    {"Nome": "Nome do Indivíduo 4", "CPF": "000.000.000-03", "dataEnvio": "22082023", "data": "24/08/2023", "tipoSugestao": "Sugestão de melhoria", "sugestao": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum optio dolores alias commodi est ullam iusto, omnis beatae. Quaerat hic similique voluptatum veniam dolore reprehenderit provident accusamus necessitatibus cum eaque."},
+    {"Nome": "Nome do Indivíduo 5", "CPF": "000.000.000-04", "dataEnvio": "22082023", "data": "28/08/2023", "tipoSugestao": "Sugestão de novo produto", "sugestao": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum optio dolores alias commodi est ullam iusto, omnis beatae. Quaerat hic similique voluptatum veniam dolore reprehenderit provident accusamus necessitatibus cum eaque."},
+    {"Nome": "Nome do Indivíduo 6", "CPF": "000.000.000-05", "dataEnvio": "22082023", "data": "25/08/2023", "tipoSugestao": "Sugestão de melhoria", "sugestao": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum optio dolores alias commodi est ullam iusto, omnis beatae. Quaerat hic similique voluptatum veniam dolore reprehenderit provident accusamus necessitatibus cum eaque."}
+  
+]
+
+
+
+
+
+
+

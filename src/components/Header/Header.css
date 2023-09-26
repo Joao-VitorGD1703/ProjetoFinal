@@ -1,0 +1,10 @@
+.header{
+    width: 15vw;
+    height: 100vh;
+    margin-right: 10px;
+    background-color: #2a2c3c;
+    position: fixed;
+    top: 0;
+    left: 0;
+    
+}
