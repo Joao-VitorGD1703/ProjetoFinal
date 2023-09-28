@@ -36,6 +36,9 @@ export const Lista = ({ initialList }) => {
                 {sortedList.map((e) => (
                     <li key={e.CPF} className='theli'>
                         <Cards
+                            Grupo = {e.Grupo}
+                            Cidade={e.Cidade}
+                            Uf={e.Uf}
                             nome={e.Nome}
                             cpf={e.CPF}
                             data={e.data}

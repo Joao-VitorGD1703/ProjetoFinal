@@ -10,12 +10,16 @@ export const Cards = (props) => {
             <section className='article-elem'>
 
 
-                <h2>{data.nome}</h2>
+                <h2>{data.nome}</h2><br />
+                {/* <p>{data.Grupo}</p> */}
 
 
             </section>
             <section className='article-elem'>
                 <ul>
+
+                    <li>{data.Grupo}</li><br></br>
+                    <li><b>{data.Cidade} / {data.Uf}</b></li>
                     <li>{data.cpf}</li>
                     <li>{data.data}</li>
                     <li>{data.tipoSugestao}</li>

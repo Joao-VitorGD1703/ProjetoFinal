@@ -2,7 +2,7 @@
 
 .cont-card {
     width: 100%;
-    height: 100%;
+    height: 45vh;
     padding: 10px 5px 10px 20px;
     display: flex;
     flex-direction: column;
@@ -21,11 +21,20 @@
 
 .article-elem {
     width: 45vw;
-    height: 10vh;
+    height: 15vh;
     text-align: left;
+}
+.article-elem h2 {
+   margin-left: 25px;
+}
+.article-elem p{
+   display: flex;
+   flex-direction: row;
+   margin-top: 7% ;
 }
 
 .article-elem li {
+    margin-top: 5px ;
     list-style: none;
 
 }

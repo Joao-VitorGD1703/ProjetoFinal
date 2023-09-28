@@ -50,6 +50,20 @@ export const Form = ({ updateList }) => {
         console.log(sortedList);
 
     };
+    const handleClickCominidade = () => {
+
+        let finalList = sortedList.filter(e => e.Grupo != '');
+        handleUpdateList(finalList);
+        console.log(sortedList);
+
+    };
+    const handleClickNaoCominidade = () => {
+
+        let finalList = sortedList.filter(e => e.Grupo == '');
+        handleUpdateList(finalList);
+        console.log(sortedList);
+
+    };
 
     return (
         <div className='cont-principal'>
@@ -69,16 +83,22 @@ export const Form = ({ updateList }) => {
             <div className='cont-secundario'>
                 <ul className='btn-ul'>
                     <li className='li-btn'>
-                        <button className='' onClick={handleClickCrescente}>Ordem Crescente</button>
+                        <button className='' onClick={handleClickCrescente}>Mais antiga</button>
                     </li>
                     <li className='li-btn' >
-                        <button className='' onClick={handleClickDecrescente}>Ordem Decrescente</button>
+                        <button className='' onClick={handleClickDecrescente}>Mais recente</button>
                     </li>
                     <li className='li-btn'>
-                        <button className='' onClick={handleClickNovo}>Novo produto</button>
+                        <button className='' onClick={handleClickNovo}>Novos produtos</button>
                     </li>
                     <li className='li-btn'>
-                        <button className='' onClick={handleClickMelhoria}>Melhoria</button>
+                        <button className='' onClick={handleClickMelhoria}>Melhoria de Produtos</button>
+                    </li>
+                    <li className='li-btn'>
+                        <button className='' onClick={handleClickCominidade}>Cuminidade</button>
+                    </li>
+                    <li className='li-btn'>
+                        <button className='' onClick={handleClickNaoCominidade}>Individual</button>
                     </li>
 
                 </ul>
