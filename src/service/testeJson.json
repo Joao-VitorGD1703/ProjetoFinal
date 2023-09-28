@@ -40,7 +40,7 @@
         "CPF": "999.888.777-66",
         "dataEnvio": "21112023",
         "data": "21/11/2023",
-        "tipoSugestao": "Sugestão de aperfeiçoamento",
+        "tipoSugestao": "Sugestão de novo produto",
         "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin feugiat lacinia quam eget tristique."
     },
     {
@@ -51,7 +51,7 @@
         "CPF": "123.987.654-32",
         "dataEnvio": "05092023",
         "data": "05/09/2023",
-        "tipoSugestao": "Sugestão de inovação",
+        "tipoSugestao": "Sugestão de novo produto",
         "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt euismod elit, in vehicula tortor ullamcorper vel."
     },
     {
@@ -62,7 +62,7 @@
         "CPF": "987.654.321-00",
         "dataEnvio": "13102023",
         "data": "13/10/2023",
-        "tipoSugestao": "Sugestão de otimização",
+        "tipoSugestao": "Sugestão de melhoria",
         "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum, quam in hendrerit consectetur, felis sapien tempus libero."
     },
     {
@@ -73,7 +73,7 @@
         "CPF": "444.333.222-11",
         "dataEnvio": "28062023",
         "data": "28/06/2023",
-        "tipoSugestao": "Sugestão de aprimoramento",
+        "tipoSugestao": "Sugestão de melhoria",
         "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel quam eu ipsum auctor efficitur."
     },
     {
@@ -84,7 +84,7 @@
   "CPF": "777.888.999-00",
   "dataEnvio": "03032023",
   "data": "03/03/2023",
-  "tipoSugestao": "Sugestão de aprimoramento",
+  "tipoSugestao": "Sugestão de novo produto",
   "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis fringilla nisi, a finibus enim viverra et."
 },
 {
@@ -95,7 +95,7 @@
   "CPF": "222.111.444-33",
   "dataEnvio": "17122023",
   "data": "17/12/2023",
-  "tipoSugestao": "Sugestão de aperfeiçoamento",
+  "tipoSugestao": "Sugestão de melhoria",
   "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget semper velit, id feugiat dui."
 },
 {
@@ -117,20 +117,10 @@
   "CPF": "444.555.666-77",
   "dataEnvio": "12052023",
   "data": "12/05/2023",
-  "tipoSugestao": "Sugestão de otimização",
+  "tipoSugestao": "Sugestão de melhoria",
   "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacinia ac justo sit amet facilisis."
 },
-{
-  "Nome": "Camila Pereira",
-  "Grupo": "comunidade - Guarulhos",
-  "Cidade": "Guarulhos",
-  "Uf": "SP",
-  "CPF": "888.777.666-55",
-  "dataEnvio": "28022023",
-  "data": "28/02/2023",
-  "tipoSugestao": "Sugestão de aperfeiçoamento",
-  "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo eu libero gravida viverra."
-},
+
 {
   "Nome": "Camila Pereira",
   "Grupo": "",
@@ -139,7 +129,7 @@
   "CPF": "888.777.666-55",
   "dataEnvio": "28022023",
   "data": "28/02/2023",
-  "tipoSugestao": "Sugestão de aperfeiçoamento",
+  "tipoSugestao": "Sugestão de novo produto",
   "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget justo eu libero gravida viverra."
 }
 
