@@ -1,14 +1,14 @@
 [
     {
         "Nome": "João Silva",
-        "Grupo": "Requisicao",
+        "Grupo": "",
         "Cidade": "Campinas",
         "Uf": "SP",
         "CPF": "123.456.789-01",
         "dataEnvio": "22082023",
         "data": "22/08/2023",
         "tipoSugestao": "Sugestão de melhoria",
-        "sugestao": " Considerando as tendências de saúde e bem-estar, uma redução moderada de açúcar e sódio no produto poderia atrair um público mais saudável sem comprometer o sabor."
+        "sugestao": "Comentario: Considerando as tendências de saúde e bem-estar, uma redução moderada de açúcar e sódio no produto poderia atrair um público mais saudável sem comprometer o sabor."
     },
     {
         "Nome": "Maria Santos",
@@ -19,7 +19,7 @@
         "dataEnvio": "30102023",
         "data": "30/10/2023",
         "tipoSugestao": "Sugestão de melhorias",
-        "sugestao": " A transparência na origem dos ingredientes é cada vez mais importante para os consumidores. A Kraft Heinz poderia fornecer informações detalhadas sobre a proveniência dos tomates e outros ingredientes utilizados."
+        "sugestao": "Comentario: A transparência na origem dos ingredientes é cada vez mais importante para os consumidores. A Kraft Heinz poderia fornecer informações detalhadas sobre a proveniência dos tomates e outros ingredientes utilizados."
     },
     {
         "Nome": "Ana Oliveira",
@@ -30,7 +30,7 @@
         "dataEnvio": "10072023",
         "data": "10/07/2023",
         "tipoSugestao": "Sugestão de aprimoramento",
-        "sugestao": "Às vezes, os consumidores desejam uma opção menor de embalagem para conveniência em viagens ou para evitar desperdício. Oferecer embalagens de tamanhos variados, como miniaturas ou sachês individuais, poderia ser uma vantagem."
+        "sugestao": "Requisicao: Às vezes, os consumidores desejam uma opção menor de embalagem para conveniência em viagens ou para evitar desperdício. Oferecer embalagens de tamanhos variados, como miniaturas ou sachês individuais, poderia ser uma vantagem."
     },
     {
         "Nome": "Pedro Ferreira",
@@ -41,7 +41,7 @@
         "dataEnvio": "21112023",
         "data": "21/11/2023",
         "tipoSugestao": "Sugestão de novo produto",
-        "sugestao": " Embora o Ketchup Heinz seja um clássico, seria interessante introduzir novas variedades de sabores para atender a diferentes preferências dos consumidores. Por exemplo, uma versão picante ou uma versão com ervas aromáticas poderiam ser opções atraentes."
+        "sugestao": "Requisicao: Embora o Ketchup Heinz seja um clássico, seria interessante introduzir novas variedades de sabores para atender a diferentes preferências dos consumidores. Por exemplo, uma versão picante ou uma versão com ervas aromáticas poderiam ser opções atraentes."
     },
     {
         "Nome": "Carla Lima",
@@ -52,7 +52,7 @@
         "dataEnvio": "05092023",
         "data": "05/09/2023",
         "tipoSugestao": "Sugestão de novo produto",
-        "sugestao": "Como a sustentabilidade é uma preocupação crescente, sugiro considerar a adoção de embalagens mais ecológicas para o Ketchup Heinz, como embalagens biodegradáveis ou recicláveis. Isso não apenas demonstraria o compromisso da Kraft Heinz com o meio ambiente, mas também atrairia consumidores conscientes."
+        "sugestao": "Comentario: Como a sustentabilidade é uma preocupação crescente, sugiro considerar a adoção de embalagens mais ecológicas para o Ketchup Heinz, como embalagens biodegradáveis ou recicláveis. Isso não apenas demonstraria o compromisso da Kraft Heinz com o meio ambiente, mas também atrairia consumidores conscientes."
     },
     {
         "Nome": "Lucas Pereira",
@@ -63,7 +63,7 @@
         "dataEnvio": "13102023",
         "data": "13/10/2023",
         "tipoSugestao": "Sugestão de melhoria",
-        "sugestao": "A transparência na origem dos ingredientes é cada vez mais importante para os consumidores. A Kraft Heinz poderia fornecer informações detalhadas sobre a proveniência dos tomates e outros ingredientes utilizados."
+        "sugestao": "Requisicao: A transparência na origem dos ingredientes é cada vez mais importante para os consumidores. A Kraft Heinz poderia fornecer informações detalhadas sobre a proveniência dos tomates e outros ingredientes utilizados."
     },
     {
         "Nome": "Andréia Almeida",
@@ -74,7 +74,7 @@
         "dataEnvio": "28062023",
         "data": "28/06/2023",
         "tipoSugestao": "Sugestão de melhoria",
-        "sugestao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel quam eu ipsum auctor efficitur."
+        "sugestao": "Requisicao: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel quam eu ipsum auctor efficitur."
     },
     {
   "Nome": "Fernando Souza",
@@ -85,7 +85,7 @@
   "dataEnvio": "03032023",
   "data": "03/03/2023",
   "tipoSugestao": "Sugestão de novo produto",
-  "sugestao": "Às vezes, os consumidores desejam uma opção menor de embalagem para conveniência em viagens ou para evitar desperdício. Oferecer embalagens de tamanhos variados, como miniaturas ou sachês individuais, poderia ser uma vantagem."
+  "sugestao": "Comentario: Às vezes, os consumidores desejam uma opção menor de embalagem para conveniência em viagens ou para evitar desperdício. Oferecer embalagens de tamanhos variados, como miniaturas ou sachês individuais, poderia ser uma vantagem."
 },
 {
   "Nome": "Isabel Silva",
@@ -96,7 +96,7 @@
   "dataEnvio": "17122023",
   "data": "17/12/2023",
   "tipoSugestao": "Sugestão de melhoria",
-  "sugestao": "A introdução de uma linha de ketchups com sabores diferentes poderia ser uma adição emocionante. Variedades como ketchup de alho assado, pimenta ou abacaxi poderiam atrair um público diversificado e adicionar um toque de inovação à marca."
+  "sugestao": "Comentario: A introdução de uma linha de ketchups com sabores diferentes poderia ser uma adição emocionante. Variedades como ketchup de alho assado, pimenta ou abacaxi poderiam atrair um público diversificado e adicionar um toque de inovação à marca."
 },
 {
   "Nome": "Ricardo Oliveira",
@@ -107,7 +107,7 @@
   "dataEnvio": "22062023",
   "data": "22/06/2023",
   "tipoSugestao": "Sugestão de inovação",
-  "sugestao": "Considerando a crescente conscientização ambiental, a adoção de embalagens mais sustentáveis, como garrafas de ketchup recicláveis ou biodegradáveis, demonstraria o compromisso da Kraft Heinz com a preservação do meio ambiente."
+  "sugestao": "Requisicao: Considerando a crescente conscientização ambiental, a adoção de embalagens mais sustentáveis, como garrafas de ketchup recicláveis ou biodegradáveis, demonstraria o compromisso da Kraft Heinz com a preservação do meio ambiente."
 },
 {
   "Nome": "Patrícia Santos",
@@ -118,7 +118,7 @@
   "dataEnvio": "12052023",
   "data": "12/05/2023",
   "tipoSugestao": "Sugestão de melhoria",
-  "sugestao": "Considerando as tendências de saúde e bem-estar, uma redução moderada de açúcar e sódio no produto poderia atrair um público mais saudável sem comprometer o sabor."
+  "sugestao": "Comentario: Considerando as tendências de saúde e bem-estar, uma redução moderada de açúcar e sódio no produto poderia atrair um público mais saudável sem comprometer o sabor."
 },
 
 {
@@ -130,7 +130,7 @@
   "dataEnvio": "28022023",
   "data": "28/02/2023",
   "tipoSugestao": "Sugestão de novo produto",
-  "sugestao": " Como a sustentabilidade é uma preocupação crescente, sugiro considerar a adoção de embalagens mais ecológicas para o Ketchup Heinz, como embalagens biodegradáveis ou recicláveis. Isso não apenas demonstraria o compromisso da Kraft Heinz com o meio ambiente, mas também atrairia consumidores conscientes."
+  "sugestao": "Comentario: Como a sustentabilidade é uma preocupação crescente, sugiro considerar a adoção de embalagens mais ecológicas para o Ketchup Heinz, como embalagens biodegradáveis ou recicláveis. Isso não apenas demonstraria o compromisso da Kraft Heinz com o meio ambiente, mas também atrairia consumidores conscientes."
 }
 
 
